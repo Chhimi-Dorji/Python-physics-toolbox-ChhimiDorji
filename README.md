@@ -1,19 +1,13 @@
 # Python-physics-toolbox-ChhimiDorji
 
-#  Python Physics Toolbox
+# Python Physics Toolbox
 
-A collection of Python tools for common physics calculations and data analysis tasks.
+This repository contains beginner-level scientific Python tools.
 
-##  Topics Covered
-- Plasma physics temperature classification
-- Material properties lookup
-- Particle energy calculations
-- Regular expressions for lab data cleaning
+## Topics Covered
+- Plasma temperature classification
+- Particle energy calculator
+- Material property lookup
 
-##  How to Run
-1. Clone this repository
-2. Open the `.ipynb` notebook in Jupyter
-3. Run cells sequentially
-
-##  Example Output
-[Add screenshot later]
+## How to Run
+Open the notebook in Jupyter or Spyder and run the cells step by step.
